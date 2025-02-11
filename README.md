@@ -101,3 +101,6 @@ Klicke auf die fehlgeschlagene Action für weitere Informationen. Du kannst auch
 
 ## Ich will eine schönere Übersicht für meine Sensoren.
 Schaue Dir [dieses Projekt](https://github.com/simonhuwiler/mobilealerts-client) an.
+
+## Versionsverlauf
+* 2025-02: Update Pandas-Version, weil Numpy Fehler generiert
