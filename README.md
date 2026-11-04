@@ -104,3 +104,4 @@ Schaue Dir [dieses Projekt](https://github.com/simonhuwiler/mobilealerts-client)
 
 ## Versionsverlauf
 * 2025-02: Update Pandas-Version, weil Numpy Fehler generiert
+* 2026-10: Bump Versionen
